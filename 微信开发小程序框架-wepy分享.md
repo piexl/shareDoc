@@ -121,5 +121,6 @@ wepy build --watch
   - 丰富的属性
   - 支持横、纵向滑动
   - 强拓展（可在原插件基础上二次开发）
-- 
+
+示例项目地址:[https://github.com/piexl/wepy-3pixel/tree/master](https://github.com/piexl/wepy-3pixel/tree/master)
 
